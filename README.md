@@ -31,10 +31,10 @@ Clone this repo and run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/girishlade111/lade-stack-ai-dev-hub.git
+git clone https://github.com/girishlade111/lade-stack-ai-dev-hub-.git
 
 # Navigate to the project directory
-cd lade-stack-ai-dev-hub
+cd lade-stack-ai-dev-hub-
 
 # Install dependencies
 npm install
@@ -112,6 +112,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - **Author**: Girish Lade
 - **Email**: girishlade111@gmail.com
 - **GitHub**: [girishlade111](https://github.com/girishlade111)
+- **Built by Girish Lade** — [ladestack.in](https://ladestack.in)
 
 ## License
 
